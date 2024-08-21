@@ -42,6 +42,17 @@ Experienced DevOps Engineer with over 6+ years of expertise in automating and op
 
 <br>
 
+## 🏆 Certifications 🏆
+
+- **On The Spot Award - TCS GEMS**  
+  <img src="https://github.com/umechand/umechand/blob/main/On_The_Spot_Award.png" alt="On The Spot Award" width=60% />
+
+- **Master of Science - University of Utah**  
+  <img src="https://github.com/umechand/umechand/blob/main/master%20degree%20(p1).png" alt="Master of Science" width=60% />
+
+
+<br>
+
 ## 📊 Github Stats 📊
 
 ![Umesh Indla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umechand&show_icons=true&theme=radical)  
