@@ -5,7 +5,7 @@
   <a href="mailto:indlau581@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a> 
-  <a href="https://www.linkedin.com/in/umeshvarmachandra/" target="_blank">
+  <a href="https://www.linkedin.com/in/umesh-indla/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -23,7 +23,7 @@ Experienced DevOps Engineer with over 6+ years of expertise in automating and op
 
 - 💬 Ask me about **DevOps, Cloud Automation, CI/CD Pipelines**
 
-- 📧 Reach me out: indlau581@gmail.com
+- 📧 Reach me out: umeshdevops9@gmail.com
 
 </div>
 
