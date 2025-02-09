@@ -11,7 +11,7 @@
 </div>
 
 <br> 
-Experienced DevOps Engineer with over 6+ years of expertise in automating and optimizing large-scale cloud applications. Proficient in CI/CD, infrastructure as code, and container orchestration. Successfully led CI/CD pipeline implementations, reducing deployment times by 50% and optimizing infrastructure, which resulted in a 30% cost reduction. Worked with cross-functional teams to improve scalability and uptime, achieving 99.99% availability.
+Hi, I'm Umesh Indla, a Fullstack Java Developer with over 7 years of experience. Throughout my career, I've worked extensively on both front-end and back-end technologies, gaining a deep understanding of building scalable and high-performance web applications. My expertise lies in Java, with proficiency in frameworks like Spring, Hibernate, and Java EE. Additionally, I have hands-on experience with front-end technologies such as React, Angular, and JavaScript. I've developed microservices, designed RESTful APIs, and integrated them with cloud platforms like AWS, Azure, and GCP. I'm also well-versed in modern DevOps practices, including setting up CI/CD pipelines, working with Docker, and deploying applications on Kubernetes.
 
 <br>
 
