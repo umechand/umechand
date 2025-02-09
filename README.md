@@ -23,7 +23,7 @@ Hi, I'm Umesh Indla, a Fullstack Java Developer with over 7 years of experience.
 
 - 💬 Ask me about **DevOps, Cloud Automation, CI/CD Pipelines**
 
-- 📧 Reach me out: umeshdevops9@gmail.com
+- 📧 Reach me out: umeshjavasbms@gmail.com
 
 </div>
 
@@ -35,9 +35,9 @@ Hi, I'm Umesh Indla, a Fullstack Java Developer with over 7 years of experience.
 <br/>
 
 ### 💻 Skills 💻
-- 📕 **DevOps Tools**: Azure DevOps, AWS DevOps, Jenkins, CI/CD, Ansible, Docker, Kubernetes, Terraform, OpenShift  
-- 📗 **Scripting Languages**: Python, Bash, PowerShell, Groovy  
-- 📙 **Monitoring & Logging**: ELK Stack, Prometheus, Grafana, Splunk, Nagios  
+- 📕 **Frontend Frameworks & Technologies**:  Angular, React, Javascript,Typescript
+- 📗 **Back end Framework**: Spring Framework  
+- 📙 **Version Control & Collaboration**: GitHub, BitBucket, JIRA  
 - 📘 **Cloud & Infrastructure**: AWS, Azure, GCP, Docker, Kubernetes, Terraform
 
 <br>
