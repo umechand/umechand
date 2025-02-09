@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Umesh Indla
-### DevOps Engineer | Cloud Automation Specialist 
+### Full Stack Java Developer 
 
 <div align="left"> 
   <a href="mailto:umeshjavasbms@gmail.com" target="_blank">
