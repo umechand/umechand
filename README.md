@@ -52,6 +52,10 @@ Hi, I'm Umesh Indla, a Fullstack Java Developer with over 7 years of experience.
   
   <img src="https://github.com/umechand/umechand/blob/main/master%20degree%20(p1).png" alt="Master of Science" width=60% />
 
+- **Game Day - Analytics Challenge**
+
+  <img src="https://github.com/umechand/umechand.github.io/blob/main/assets/gameday.png" alt="Game Day" width=60% />
+
 
 <br>
 
