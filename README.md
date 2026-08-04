@@ -13,7 +13,7 @@
 You can reach me ☝
 
 <br> 
-Hi, I'm Umesh Indla, a Fullstack Java Developer with over 8+ years of experience. Throughout my career, I've worked extensively on both front-end and back-end technologies, gaining a deep understanding of building scalable and high-performance web applications. My expertise lies in Java, with proficiency in frameworks like Spring, Hibernate, and Java EE. Additionally, I have hands-on experience with front-end technologies such as React, Angular, and JavaScript. I've developed microservices, designed RESTful APIs, and integrated them with cloud platforms like AWS, Azure, and GCP. I'm also well-versed in modern DevOps practices, including setting up CI/CD pipelines, working with Docker, and deploying applications on Kubernetes.
+Hi, I'm a Java Developer with over 6 years of experience. Throughout my career, I've worked extensively on back-end technologies, gaining a deep understanding of building scalable and high-performance web applications. My expertise lies in Java, with proficiency in frameworks like Spring, Hibernate, and Java EE.  I've developed microservices, designed RESTful APIs, and integrated them with cloud platforms like AWS, Azure, and GCP. I'm also well-versed in modern DevOps practices, including setting up CI/CD pipelines, working with Docker, and deploying applications on Kubernetes.
 
 <br>
 
@@ -25,7 +25,7 @@ Hi, I'm Umesh Indla, a Fullstack Java Developer with over 8+ years of experience
 
 - 💬 Ask me about **DevOps, Cloud Automation, CI/CD Pipelines**
 
-- 📧 Reach me out: umeshjavasbms@gmail.com
+- 📧 Reach me out: reachout2umesh@gmail.com
 
 </div>
 
